@@ -1,6 +1,6 @@
-## 📑 Listas de Exercícios
-Lista 01<br>
-Introdução aos conceitos básicos de React, incluindo render, JSX, componentes, props, condições (if, else, if-else), e if ternário.<br>
+## 📑<h1> Listas de Exercícios</h1>
+<h2>Lista 01</h2><br>
+<p>Introdução aos conceitos básicos de React, incluindo render, JSX, componentes, props, condições (if, else, if-else), e if ternário.</p>p><br>
 Link: http://localhost:5174/
 
 Lista 02 <br>
