@@ -9,8 +9,6 @@ Introdução aos conceitos básicos de React, incluindo:
 - Condições (if, else, if-else)  
 - If ternário  
 
-[Acesse a lista 01](http://localhost:5174/)
-
 ---
 
 ## Lista 02
@@ -21,8 +19,6 @@ Continuação da introdução aos conceitos básicos de React, cobrindo os mesmo
 - Props  
 - Condições (if, else, if-else)  
 - If ternário  
-
-[Acesse a lista 02](http://localhost:5175/)
 
 ---
 
