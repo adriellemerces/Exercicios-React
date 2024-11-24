@@ -32,6 +32,6 @@ Continuação da introdução aos conceitos básicos de React, cobrindo os mesmo
 - If ternário
 
 ## 🛠️ Tecnologias Utilizadas
-ReactJS
-JavaScript (ES6)
-JSX
+- ReactJS
+- JavaScript (ES6)
+- JSX
