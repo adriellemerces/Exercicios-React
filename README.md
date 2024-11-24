@@ -23,5 +23,15 @@ Continuação da introdução aos conceitos básicos de React, cobrindo os mesmo
 ---
 
 ## Lista 03
-(Em breve: Fique ligado para mais exercícios!)
+Continuação da introdução aos conceitos básicos de React, cobrindo os mesmos tópicos:  
+- Renderização (render)  
+- JSX  
+- Componentes  
+- Props  
+- Condições (if, else, if-else)  
+- If ternário
 
+## 🛠️ Tecnologias Utilizadas
+ReactJS
+JavaScript (ES6)
+JSX
